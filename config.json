@@ -1,0 +1,6 @@
+{
+"cases": ["case14", "case30","case89","case118", "case300"],
+"mode": [2,7],
+"codegen": "tcl",
+"soft": false
+}

@@ -1,0 +1,6 @@
+// temporary file with omc commands
+loadFile("C:/Users/Clemens/OneDrive/Masterarbeit/MoPower/case14Modus2.mo");
+loadModel(Modelica);
+getErrorString();
+translateModelFMU(case14Modus2, version="2.0");
+getErrorString();
