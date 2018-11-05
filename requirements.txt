@@ -2,7 +2,7 @@ lxml==4.1.0
 Cython==0.26.1
 matplotlib==2.1.0
 numpy==1.14.0
-cryptography==2.0.3
+cryptography==2.3
 networkx==2.0
 openpyxl==2.4.8
 PYPOWER==5.1.3
